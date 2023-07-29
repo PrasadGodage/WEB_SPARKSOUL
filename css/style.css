@@ -1,6 +1,6 @@
 /********** Template CSS **********/
 :root {
-    --primary: #6222CC;
+    --primary: #7cc6ed;
     --secondary: #FBA504;
     --light: #F6F4F9;
     --dark: #04000B;
@@ -169,7 +169,7 @@ h6,
         border-bottom: 1px solid rgba(256, 256, 256, .1);
         z-index: 999;
     }
-    
+
     .sticky-top.navbar-light {
         position: fixed;
         background: #FFFFFF;
@@ -326,8 +326,7 @@ h6,
         url(../img/blob-bottom-left.png),
         url(../img/blob-bottom-right.png),
         url(../img/blob-center.png);
-    background-position:
-        left 0px top 0px,
+    background-position: left 0px top 0px,
         right 0px top 0px,
         left 0px bottom 0px,
         right 0px bottom 0px,
